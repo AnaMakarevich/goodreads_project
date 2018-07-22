@@ -8,7 +8,7 @@ There are 3 of us in the team:
 - Nesreen Sada (<a href="https://www.linkedin.com/in/nisreinsada/">LinkedIn</a>)
 - Peter Lipp (<a href="https://www.linkedin.com/in/peter-lipp-0338498/">LinkedIn</a>)
 
-It all started with a <a href="https://www.goodreads.com/group/show/603467-bertelsmann-data-science-book-readers">thread in the Udacity Forum (only accessible if you're a member!)</a>. Our fellow classmates were discussing their favourite books. This discussion soon resulted 
+It all started with a <a href="https://discussions.udacity.com/t/on-a-lighter-unrelated-to-the-course-note-what-are-the-best-books-you-have-come-across-in-life/721485">thread in the Udacity Forum (only accessible if you're a member!)</a>. Our fellow classmates were discussing their favourite books. This discussion soon resulted 
 in an separate group on GoodReads. Looking at the group we got intrigued:  
 
 <b>Are we special? Do we differ from other groups on GoodReads? </b>

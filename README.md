@@ -1,7 +1,7 @@
 # GoodReads project
 
 
-This repository is for the project we made for Bertelsmann Data Science Scholarship Program: Phase 1. 
+This repository is for the project we made for the first Phase of the Bertelsmann Data Science Scholarship Program: 
 
 There are 3 of us in the team: 
 - Ana Makarevich (<a href="https://www.linkedin.com/in/ana-makarevich/">LinkedIn</a>)
@@ -9,12 +9,12 @@ There are 3 of us in the team:
 - Peter Lipp (<a href="https://www.linkedin.com/in/peter-lipp-0338498/">LinkedIn</a>)
 
 It all started with a <a href="https://discussions.udacity.com/t/on-a-lighter-unrelated-to-the-course-note-what-are-the-best-books-you-have-come-across-in-life/721485">thread in the Udacity Forum (only accessible if you're a member!)</a>. Our fellow classmates were discussing their favourite books. This discussion soon resulted 
-in an separate group on GoodReads. Looking at the group we got intrigued:  
+in an separate group on <a href="https://www.goodreads.com/">GoodReads</a>. Looking at the group we got intrigued:  
 
 <b>Are we special? Do we differ from other groups on GoodReads? </b>
 
 We especially wanted to know, if the books favoured in our group differ from books featured in other book clubs?
-Our key hypothesis for this project was: are Udacians inclined to read and recommend non-fiction literature more often than other groups.
+Our key hypothesis for this project was: are Udacians inclined to read and recommend non-fiction literature more often than other groups?
 
 
 The project consisted of several stages:
@@ -37,8 +37,8 @@ Then we've also set up an RDS instance to run MySQL and store our data. The full
 
 <h2>Stage 3: Exploratory analysis and visualisation</h2> 
 
-This stage included makind basic exploratory analysis and making visualisations. The core notebook for analysis can be found <a href="https://github.com/AnaMakarevich/goodreads_project/blob/master/Data%20analysis.ipynb">here</a>. Additional descriptive analysis dedicated to the year the book was first published can be found <a href="https://github.com/AnaMakarevich/goodreads_project/blob/master/Books%20by%20year%20viz.ipynb">here</a>.
-And the summary visualisation that we used for our final slide can be found <a href="https://github.com/AnaMakarevich/goodreads_project/blob/master/Basic%20Analysis%20and%20Data%20Visualisation.ipynb">here</a>. 
+This stage included making basic exploratory analysis and making visualisations. The core notebook for analysis can be found <a href="https://github.com/AnaMakarevich/goodreads_project/blob/master/Data%20analysis.ipynb">here</a>. Additional descriptive analysis dedicated to the year the books were first published can be found <a href="https://github.com/AnaMakarevich/goodreads_project/blob/master/Books%20by%20year%20viz.ipynb">here</a>.
+The final summary visualisation that we used for our project slides can be found <a href="https://github.com/AnaMakarevich/goodreads_project/blob/master/Basic%20Analysis%20and%20Data%20Visualisation.ipynb">here</a>. 
 
 
 
